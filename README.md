@@ -1,2 +1,5 @@
 # MC3DS-ESE
-Expands the End Cities from Minecraft 3DS into a bigger metropolis.
+- Expands End Cities
+- Adds a new Village-Type/Expansion of Igloos.
+- Better Loot
+- More Variation
